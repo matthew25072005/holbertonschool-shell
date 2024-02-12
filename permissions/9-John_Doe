@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x set_permissions_script.sh./set_permissions_script.sh
+chmod 711 hello && touch -t 09201425 hello && ls -l hello
