@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 644 hello touch -t 09201425 hello ls -l hello
+chmod 644 hello \n touch -t 09201425 hello \n ls -l hello
