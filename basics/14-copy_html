@@ -1,2 +1,2 @@
 #!/bin/bash
-touch /tmp/test_html/file_0.html
+cp -u /tmp/test_html/*.html /tmp/
