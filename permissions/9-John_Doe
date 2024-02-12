@@ -1,3 +1,2 @@
 #!/bin/bash
 echo -e '#!/bin/bash\nchmod 711 hello\ntouch -t 09201425 hello\n./9-John_Doe\nls -l hello | cut -d" " -f1' > script.sh
-
