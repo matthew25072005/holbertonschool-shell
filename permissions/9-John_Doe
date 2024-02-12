@@ -1,2 +1,2 @@
 #!/bin/bash
-sudochmod 711 hello; touch -t 09201425 hello; ls -l hello
+sudochmod 711 hello touch -t 09201425 hello ls -l hello
