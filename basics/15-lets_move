@@ -1,2 +1,2 @@
 #!/bin/bash
-touch /tmp/test_mv/Best
+ls -lS /tmp/test_mv/
