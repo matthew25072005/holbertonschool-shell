@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e '#!/bin/bash\nchmod 753 hello\ntouch -t 09201425 hello\nls -l hello | cut -d" " -f1' > script.sh
+echo -e '#!/bin/bash\nchmod 644 hello\ntouch -t 09201425 hello\nls -l hello | cut -d" " -f1' > script.sh
