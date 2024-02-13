@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x directories_permissions.sh
+find . -type d -exec chmod 711 {} +
