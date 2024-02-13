@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R 711 /holbertonschool-shell/permissions
+chmod -R 755 /holbertonschool-shell/permissions
