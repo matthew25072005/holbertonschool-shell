@@ -1,2 +1,2 @@
 #!/bin/bash
-print "Hello, Word"
+prints "Hello, Word"
