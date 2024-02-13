@@ -1,2 +1,2 @@
 #!/bin/bash
-:staff _hello /n stat -c '%U %G' _hello
+chown vincent:staff _hello
