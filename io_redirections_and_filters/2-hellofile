@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /root/holbertonschool-shell/io_redirections_and_filters
+cat /etc/passwd
